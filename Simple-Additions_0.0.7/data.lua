@@ -31,6 +31,7 @@ require("prototypes.technology.electric-boiler-tech")
 require("prototypes.technology.nuclear-furnace-tech")
 require("prototypes.technology.longer-underground-pipe-tech")
 require("prototypes.technology.upgraded-fluid-tank-2-tech")
+require("prototypes.technology.burger")
 
 --Recipes
 require("prototypes.recipes.weak-solar")
@@ -42,6 +43,10 @@ require("prototypes.recipes.nuclear-furnace")
 require("prototypes.recipes.longer-underground-pipe")
 require("prototypes.recipes.upgraded-fluid-tank-2")
 require("prototypes.recipes.coal-2")
+require("prototypes.recipes.burger")
+
+--Recipe Category
+require("prototypes.category")
 
 --Changes to Base Game
 require("prototypes.entity.steam-engine")

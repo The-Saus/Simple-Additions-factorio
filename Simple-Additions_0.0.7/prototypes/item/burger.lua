@@ -4,7 +4,7 @@ data:extend{(
     name = "burger",
     icon = "__Simple-Additions__/graphics/burger/burger.png",
     icon_size = 32,
-    subgroup = "raw-resource",
+    subgroup = "intermediate-product",
     capsule_action =
     {
       type = "use-on-self",
@@ -34,7 +34,7 @@ data:extend{(
         }
       }
     },
-    order = "h[raw-fish]-a[burger]",
+    order = "g[processing-unit]h[engine]",
     stack_size = 20
   }
 )}  
