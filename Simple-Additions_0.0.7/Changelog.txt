@@ -1,6 +1,5 @@
 Development for Simple-Additions started on 5/21/19 (May 21 2019)
  
-Latest Update = 06/28/19
 
 0.0.1
 Added Weak Solar Panels
