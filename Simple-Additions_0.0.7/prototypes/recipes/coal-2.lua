@@ -2,6 +2,7 @@ data:extend({
   {
     type = "recipe",
     name = "coalx2",
+	category = "chemistry",
     subgroup = "fluid-recipes",
     energy_required = 3,
     enabled = true,

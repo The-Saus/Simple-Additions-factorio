@@ -1,11 +1,14 @@
 {
     "name": "Simple-Additions",
     "version": "0.0.7",
-    "title": "SausPack",
+    "title": "Simple Additions",
     "author": "TheSaus",
     "contact": "sacrifice a can of beans and i will appear",
     "homepage": "",
     "factorio_version": "0.17",
-    "dependencies": ["base >= 0.17"],
+    "dependencies": [
+    "base >= 0.17.29",
+    "? Realistic_Electric_Trains >= 0.4.3"
+  ],
     "description": "A bunch of mods i made, packed together."
 }
